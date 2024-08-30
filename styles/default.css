@@ -23,6 +23,7 @@
         background: linear-gradient(#c36, #448)
     }
     nav a{
+        position: relative;
         color: #eee;
         text-decoration: none;
     }
@@ -44,6 +45,24 @@
         margin: 0;
         padding: 0;
         width: 100%;
+    }
+    .menu li{
+        position: relative;
+    }
+    .menu li::before{
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: .1rem;
+        height: .1rem;
+        background: linear-gradient(to right, transparent, #eee);
+        opacity: 0;
+        transition: all .5s ease;
+    }
+    .menu li:hover::before{
+        width: 100%;
+        opacity: .8;
     }
     /* Contenido Principal */
 
