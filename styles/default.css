@@ -19,7 +19,7 @@
         justify-content: space-between;
         align-items: center;
         flex-wrap: wrap;
-        padding: .5rem;
+        padding: .5rem max(.5rem, calc(50vw - 660px));
         background: linear-gradient(#c36, #448)
     }
     nav a{
@@ -41,6 +41,7 @@
     }
     .menu{
         list-style: none;
+        margin: 0;
         padding: 0;
         width: 100%;
     }
@@ -49,7 +50,16 @@
     /* Pie de Pagina */
 
 /* Medium Devices - Tablets */
-
+@media screen and (width >= 768px){
+    nav .icon-menu{
+        display: none;
+    }
+    .menu{
+        display: flex;
+        gap: .5rem;
+        width: auto;
+    }
+}
 /* Large Devices - Netbooks */
 
 /* Extra Large Devices - Desktop */
