@@ -8,16 +8,82 @@
         scroll-behavior: smooth;
         font-family: 'Raleway', sans-serif;
     }
+    [class*="icon-"]{
+        border-radius: .25rem;
+        background-color: transparent;
+    }
+    [class*="icon-"]:hover{
+        color: #eee;
+        background-color: #448;
+    }
     /* Cabecera */
 
     /* Navegacion */
-
+    nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        padding: .5rem max(.5rem, calc(50vw - 660px));
+        background: linear-gradient(#c36, #448)
+    }
+    nav a{
+        position: relative;
+        color: #eee;
+        text-decoration: none;
+    }
+    .icon-menu{
+        color: #eee;
+        border: 1px solid #eee;
+    }
+    .icon-menu:hover{
+        color: #448;
+        background-color: #eee;
+    }
+    .icon-menu::before{
+        content: '\2261';
+        font-size: 1.5rem;
+        line-height: 1;
+    }
+    .menu{
+        list-style: none;
+        margin: 0;
+        padding: 0;
+        width: 100%;
+    }
+    .menu li{
+        position: relative;
+    }
+    .menu li::before{
+        content: '';
+        position: absolute;
+        bottom: 0;
+        left: 0;
+        width: .1rem;
+        height: .1rem;
+        background: linear-gradient(to right, transparent, #eee);
+        opacity: 0;
+        transition: all .5s ease;
+    }
+    .menu li:hover::before{
+        width: 100%;
+        opacity: .8;
+    }
     /* Contenido Principal */
 
     /* Pie de Pagina */
 
 /* Medium Devices - Tablets */
-
+@media screen and (width >= 768px){
+    nav .icon-menu{
+        display: none;
+    }
+    .menu{
+        display: flex;
+        gap: .5rem;
+        width: auto;
+    }
+}
 /* Large Devices - Netbooks */
 
 /* Extra Large Devices - Desktop */
