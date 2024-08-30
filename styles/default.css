@@ -3,11 +3,47 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css");
 /* Content First - Mobile */
     /* Reglas Generales */
-
+    [class*="icon-"]{
+        border-radius: .25rem;
+        background-color: transparent;
+    }
+    [class*="icon-"]:hover{
+        color: #eee;
+        background-color: #448;
+    }
     /* Cabecera */
 
     /* Navegacion */
-
+    nav{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        flex-wrap: wrap;
+        padding: .5rem;
+        background: linear-gradient(#c36, #448)
+    }
+    nav a{
+        color: #eee;
+        text-decoration: none;
+    }
+    .icon-menu{
+        color: #eee;
+        border: 1px solid #eee;
+    }
+    .icon-menu:hover{
+        color: #448;
+        background-color: #eee;
+    }
+    .icon-menu::before{
+        content: '\2261';
+        font-size: 1.5rem;
+        line-height: 1;
+    }
+    .menu{
+        list-style: none;
+        padding: 0;
+        width: 100%;
+    }
     /* Contenido Principal */
 
     /* Pie de Pagina */
