@@ -16,3 +16,13 @@ Antes de comenzar a trabajar en un proyecto es importante que configuremos nuest
     git config --global user.name "username"
     git config --global user.email "user@server"
 ```
+
+## Remotos
+
+corresponden a las direcciónes de los repositorios que se encuentran en algún servidor de GIT, como por ejemplo _github_. Podemos utilizar cualquiera de los siguientes comandos para editar esta configuración.
+
+* __git remote add `remoto` `url`:__ agrega una dirección remota con la que podemos trabajar
+* __git remote remove `remoto`__: elimina un remoto de la lista de direcciones
+* __git remote rename `oldName` `newName`__: cambia el nombre del repositorio remoto
+* __git remote set-url `remoto` `newUrl`__: Modifica la url de un repositorio remoto
+* __git remote -v__: muestra la lista de direcciones y nombres de los repositorios remotos
