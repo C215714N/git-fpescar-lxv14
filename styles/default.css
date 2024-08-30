@@ -3,7 +3,11 @@
 @import url("https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css");
 /* Content First - Mobile */
     /* Reglas Generales */
-
+    * {
+        box-sizing: border-box;
+        scroll-behavior: smooth;
+        font-family: 'Raleway', sans-serif;
+    }
     /* Cabecera */
 
     /* Navegacion */
