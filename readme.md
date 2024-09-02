@@ -48,3 +48,4 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | AgustinNazaretto | [agustin_nazaretto@hotmail.com](mailto:agustin_nazaretto@hotmail.com)| Footer|
 | klicera | [karenlicera@gmail.com](mailto:karenlicera@gmail.com) | Formulario de Contacto |
 | SusanoJuicio | [ivanacu2001@gmail.com](mailto:ivanacu2001@gmail.com) | Existencia |
+| Ax-966 | [argaxelagustin@gmail.com](mailto:argaxelagustin@gmail.com) | Navegacion |
