@@ -48,3 +48,4 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | SusanoJuicio | [ivanacu2001@gmail.com](mailto:ivanacu2001@gmail.com) | Existencia |
 | klicera | [karenlicera@gmail.com](mailto:karenlicera@gmail.com) | Formulario de Contacto |
 | Ax-966 | [argaxelagustin@gmail.com](mailto:argaxelagustin@gmail.com) | Navegacion |
+| salinassm | [salinas.milagros.ayelen@gmail.com](mailto:salinas.milagros.ayelen@gmail.com) | Header |
