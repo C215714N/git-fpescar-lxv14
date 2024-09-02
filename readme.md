@@ -44,3 +44,4 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | FedericoZapata | [federico11zapata@gmail.com](mailto:federico11zapata@gmail.com) | Logica Backend |
 | barbara1000 | [barbaranunez325@gmail.com](mailto:barbaranunez325@gmail.com)| Formulario|
 | LeiFraz | [Flajarkin99@hotmail.com](Flajarkin99@hotmail.com) | Logica Backend |
+| Diana2754 | [dianacc.alali@gmail.com] (mailto:dianacc.alali@gmail.com) | 
