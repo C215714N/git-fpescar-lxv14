@@ -33,10 +33,16 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 
 | Usuario | Correo | Area |
 |-|-|-|
+| maxiluma18 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
+>>>>>>> ebdfa714bca406a9cf5f03e8af8aa74e18f7dd32
+| FedericoZapata | [federico11zapata@gmail.com](mailto:federico11zapata@gmail.com) | Logica Backend |
+=======
 | C215714n | [cristiandracedo@hotmail.com](mailto:cristiandracedo@hotmail.com) | Navegacion |
+| dantel8 | [dantelugo1505@gmail.com](mailto:dantelugo1505@gmail.com) | Logica |
 <!-- | ingrese usuario | escriba correo | desarrolle la caracteristica | -->
 | - | -| - |
 | maxiluma19 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
 | - | -| - |
 | diego-s10 | [dsena3472@gmail.com](mailto:dsena3472@gmail.com)|
-
+| gabrieIsosa | [gabrielsosaeest1@gmail.com](mailto:dsena3472@gmail.com) | Logica Javascript |
+>>>>>>> 9b5a53b7604c26cb07ca885e848cf0108bf7d6dd
