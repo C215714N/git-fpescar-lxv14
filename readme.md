@@ -30,8 +30,9 @@ corresponden a las direcciónes de los repositorios que se encuentran en algún 
 ## Colaboradores
 
 Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de las distintas areas y participaron en la inclusion de las siguientes caracteristicas.
-
+<!-- |-|-|-| no borren esa linea. -->
 | Usuario | Correo | Area |
+|-|-|-|
 | maxiluma18 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
 | Diana2754 | [dianacc.alali@gmail.com] (mailto:dianacc.alali@gmail.com) | 
 | FedericoZapata | [federico11zapata@gmail.com](mailto:federico11zapata@gmail.com) | Logica Backend |
