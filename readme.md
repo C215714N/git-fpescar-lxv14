@@ -47,3 +47,4 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | LeiFraz | [Flajarkin99@hotmail.com](Flajarkin99@hotmail.com) | Logica Backend |
 | SusanoJuicio | [ivanacu2001@gmail.com](mailto:ivanacu2001@gmail.com) | Existencia |
 | klicera | [karenlicera@gmail.com](mailto:karenlicera@gmail.com) | Formulario de Contacto |
+| Ax-966 | [argaxelagustin@gmail.com](mailto:argaxelagustin@gmail.com) | Navegacion |
