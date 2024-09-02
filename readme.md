@@ -30,7 +30,7 @@ corresponden a las direcciónes de los repositorios que se encuentran en algún 
 ## Colaboradores
 
 Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de las distintas areas y participaron en la inclusion de las siguientes caracteristicas.
-<!-- |-|-|-| no borren esa linea. -->
+
 | Usuario | Correo | Area |
 |-|-|-|
 | C215714n | [cristiandracedo@hotmail.com](mailto:cristiandracedo@hotmail.com) | Navegacion |
