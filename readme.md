@@ -43,6 +43,7 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | barbara1000 | [barbaranunez325@gmail.com](mailto:barbaranunez325@gmail.com)| Formulario|
 | gabrieIsosa | [gabrielsosaeest1@gmail.com](mailto:gabrielsosaeest1@gmail.com) | Logica Javascript |
 | LautiCabrera | [lauti.cabrera114@gmail.com](mailto:lauti.cabrera114@gmail.com) | Logica Javascript |
+| julieta-mores-t | [julieta.mores.t@gmail.com](mailto:julieta.mores.t@gmail.com) | Navbar |
 <<<<<<< HEAD
 | AgustinNazaretto | [agustin_nazaretto@hotmail.com](mailto:agustin_nazaretto@hotmail.com)| Footer|
 =======
