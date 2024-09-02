@@ -39,7 +39,7 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | C215714n | [cristiandracedo@hotmail.com](mailto:cristiandracedo@hotmail.com) | Navegacion |
 | 2Oraclos4 | [omar.spinetta12@gmail.com](mailto:omar.spinetta12@gmail.com) |
 | dantel8 | [dantelugo1505@gmail.com](mailto:dantelugo1505@gmail.com) | Logica |
-| diego-s10 | [dsena3472@gmail.com](mailto:dsena3472@gmail.com)|
+| diego-s10 | [dsena3472@gmail.com](mailto:dsena3472@gmail.com)| Logica Javascript|
 | barbara1000 | [barbaranunez325@gmail.com](mailto:barbaranunez325@gmail.com)| Formulario|
 | gabrieIsosa | [gabrielsosaeest1@gmail.com](mailto:gabrielsosaeest1@gmail.com) | Logica Javascript |
 | LautiCabrera | [lauti.cabrera114@gmail.com](mailto:lauti.cabrera114@gmail.com) | Logica Javascript |
