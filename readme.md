@@ -33,10 +33,12 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 
 | Usuario | Correo | Area |
 |-|-|-|
+| maxiluma18 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
+| FedericoZapata | [federico11zapata@gmail.com](mailto:federico11zapata@gmail.com) | Logica Backend |
 | C215714n | [cristiandracedo@hotmail.com](mailto:cristiandracedo@hotmail.com) | Navegacion |
-<!-- | ingrese usuario | escriba correo | desarrolle la caracteristica | -->
-| - | -| - |
+| dantel8 | [dantelugo1505@gmail.com](mailto:dantelugo1505@gmail.com) | Logica |
 | maxiluma19 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
-| - | -| - |
 | diego-s10 | [dsena3472@gmail.com](mailto:dsena3472@gmail.com)|
 | barbara1000 | [barbaranunez325@gmail.com](mailto:barbaranunez325@gmail.com)| Formulario|
+| gabrieIsosa | [gabrielsosaeest1@gmail.com](mailto:dsena3472@gmail.com) | Logica Javascript |
+
