@@ -34,18 +34,14 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | Usuario  | Correo                                                            | Area       |
 | -------- | ----------------------------------------------------------------- | ---------- |
 | C215714n | [cristiandracedo@hotmail.com](mailto:cristiandracedo@hotmail.com) | Navegacion |
-
 <<<<<<< HEAD
 | gabrieIsosa | [gabrielsosaeest1@gmail.com](mailto:gabrielsosaeest1@gmail.com) | Logica JavaScript |
 =======
 <<<<<<< HEAD
 | dante8 | [dantelugo1505@gmail.com](mailto:dantelugo1505@gmail.com) | Logica |
-
 <!-- | ingrese usuario | escriba correo | desarrolle la caracteristica | -->
-
-# |-|-|-|
-
-> > > > > > > 4884c54c07b4fd288d06424c58bda674d192c3da
-> > > > > > > | maxiluma18 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
-> > > > > > > ebdfa714bca406a9cf5f03e8af8aa74e18f7dd32
-> > > > > > > | LautiCabrera | [lau.cabrera114@gmail.com](mailto:lau.cabrera114@gmail.com) | Contact |
+|-|-|-|
+=======
+>>>>>>> 4884c54c07b4fd288d06424c58bda674d192c3da
+| maxiluma18 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
+>>>>>>> ebdfa714bca406a9cf5f03e8af8aa74e18f7dd32
