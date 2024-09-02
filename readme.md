@@ -38,6 +38,7 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | FedericoZapata | [federico11zapata@gmail.com](mailto:federico11zapata@gmail.com) | Logica Backend |
 =======
 | C215714n | [cristiandracedo@hotmail.com](mailto:cristiandracedo@hotmail.com) | Navegacion |
+| dantel8 | [dantelugo1505@gmail.com](mailto:dantelugo1505@gmail.com) | Logica |
 <!-- | ingrese usuario | escriba correo | desarrolle la caracteristica | -->
 | - | -| - |
 | maxiluma19 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
