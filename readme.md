@@ -34,10 +34,6 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | Usuario | Correo | Area |
 |-|-|-|
 | C215714n | [cristiandracedo@hotmail.com](mailto:cristiandracedo@hotmail.com) | Navegacion |
-<<<<<<< HEAD
-| tomasroetti |[roettitomas@gmail.com] (mailto:roettitomas@gmail.com) | Creacion de las cards |
-=======
 <!-- | ingrese usuario | escriba correo | desarrolle la caracteristica | -->
 | - | -| - |
 | maxiluma19 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
->>>>>>> c097c174cc1f4c065244efe1f4080a2467c9f125
