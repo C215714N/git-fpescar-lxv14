@@ -45,3 +45,4 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 >>>>>>> 4884c54c07b4fd288d06424c58bda674d192c3da
 | maxiluma18 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
 >>>>>>> ebdfa714bca406a9cf5f03e8af8aa74e18f7dd32
+| FedericoZapata | [federico11zapata@gmail.com](mailto:federico11zapata@gmail.com) | Logica Backend |
