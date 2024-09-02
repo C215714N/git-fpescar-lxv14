@@ -30,8 +30,9 @@ corresponden a las direcciónes de los repositorios que se encuentran en algún 
 ## Colaboradores
 
 Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de las distintas areas y participaron en la inclusion de las siguientes caracteristicas.
-
+<!-- |-|-|-| no borren esa linea. -->
 | Usuario | Correo | Area |
+|-|-|-|
 | maxiluma18 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
 | Diana2754 | [dianacc.alali@gmail.com](mailto:dianacc.alali@gmail.com) | 
 | FedericoZapata | [federico11zapata@gmail.com](mailto:federico11zapata@gmail.com) | Logica Backend |
@@ -42,5 +43,6 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | barbara1000 | [barbaranunez325@gmail.com](mailto:barbaranunez325@gmail.com)| Formulario|
 | gabrieIsosa | [gabrielsosaeest1@gmail.com](mailto:gabrielsosaeest1@gmail.com) | Logica Javascript |
 | LautiCabrera | [lauti.cabrera114@gmail.com](mailto:lauti.cabrera114@gmail.com) | Logica Javascript |
+| AgustinNazaretto | [agustin_nazaretto@hotmail.com](mailto:agustin_nazaretto@hotmail.com)| Footer|
 | LeiFraz | [Flajarkin99@hotmail.com](Flajarkin99@hotmail.com) | Logica Backend |
 | SusanoJuicio | [ivanacu2001@gmail.com](mailto:ivanacu2001@gmail.com) | Existencia |
