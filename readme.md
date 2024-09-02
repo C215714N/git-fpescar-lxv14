@@ -39,4 +39,4 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | maxiluma19 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
 | - | -| - |
 | diego-s10 | [dsena3472@gmail.com](mailto:dsena3472@gmail.com)|
-
+| barbara1000 | [barbaranunez325@gmail.com](mailto:barbaranunez325@gmail.com)| Formulario|
