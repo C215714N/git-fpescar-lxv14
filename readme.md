@@ -36,6 +36,7 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | Diana2754 | [dianacc.alali@gmail.com] (mailto:dianacc.alali@gmail.com) | 
 | FedericoZapata | [federico11zapata@gmail.com](mailto:federico11zapata@gmail.com) | Logica Backend |
 | C215714n | [cristiandracedo@hotmail.com](mailto:cristiandracedo@hotmail.com) | Navegacion |
+| 2Oraclos4 | [omar.spinetta12@gmail.com](mailto:omar.spinetta12@gmail.com) |
 | dantel8 | [dantelugo1505@gmail.com](mailto:dantelugo1505@gmail.com) | Logica |
 | diego-s10 | [dsena3472@gmail.com](mailto:dsena3472@gmail.com)|
 | barbara1000 | [barbaranunez325@gmail.com](mailto:barbaranunez325@gmail.com)| Formulario|
