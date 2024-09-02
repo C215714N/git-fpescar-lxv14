@@ -32,7 +32,6 @@ corresponden a las direcciónes de los repositorios que se encuentran en algún 
 Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de las distintas areas y participaron en la inclusion de las siguientes caracteristicas.
 
 | Usuario | Correo | Area |
-|-|-|-|
 | maxiluma18 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
 | FedericoZapata | [federico11zapata@gmail.com](mailto:federico11zapata@gmail.com) | Logica Backend |
 | C215714n | [cristiandracedo@hotmail.com](mailto:cristiandracedo@hotmail.com) | Navegacion |
@@ -41,3 +40,4 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | barbara1000 | [barbaranunez325@gmail.com](mailto:barbaranunez325@gmail.com)| Formulario|
 | gabrieIsosa | [gabrielsosaeest1@gmail.com](mailto:gabrielsosaeest1@gmail.com) | Logica Javascript |
 | LautiCabrera | [lauti.cabrera114@gmail.com](mailto:lauti.cabrera114@gmail.com) | Logica Javascript |
+| LeiFraz | [Flajarkin99@hotmail.com](Flajarkin99@hotmail.com) | Logica Backend |
