@@ -46,3 +46,4 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | LeiFraz | [Flajarkin99@hotmail.com](Flajarkin99@hotmail.com) | Logica Backend |
 | Diana2754 | [dianacc.alali@gmail.com](mailto:dianacc.alali@gmail.com) | 
 | AgustinNazaretto | [agustin_nazaretto@hotmail.com](mailto:agustin_nazaretto@hotmail.com)| Footer|
+| klicera | [karenlicera@gmail.com](mailto:karenlicera@gmail.com) | Formulario de Contacto |
