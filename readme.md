@@ -35,3 +35,4 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 |-|-|-|
 | C215714n | [cristiandracedo@hotmail.com](mailto:cristiandracedo@hotmail.com) | Navegacion |
 | tomasroetti |[roettitomas@gmail.com] (mailto:roettitomas@gmail.com) | Creacion de las cards |
+| maxiluma19 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
