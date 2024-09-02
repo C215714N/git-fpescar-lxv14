@@ -34,6 +34,4 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | Usuario | Correo | Area |
 |-|-|-|
 | C215714n | [cristiandracedo@hotmail.com](mailto:cristiandracedo@hotmail.com) | Navegacion |
-<!-- | ingrese usuario | escriba correo | desarrolle la caracteristica | -->
-|-|-|-|
 | maxiluma18 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
