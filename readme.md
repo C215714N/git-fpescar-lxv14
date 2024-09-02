@@ -34,4 +34,4 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | Usuario | Correo | Area |
 |-|-|-|
 | C215714n | [cristiandracedo@hotmail.com](mailto:cristiandracedo@hotmail.com) | Navegacion |
-<!-- | ingrese usuario | escriba correo | desarrolle la caracteristica | -->
+| gabrieIsosa | [gabrielsosaeest1@gmail.com](mailto:gabrielsosaeest1@gmail.com) | Logica JavaScript |
