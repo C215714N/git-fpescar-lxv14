@@ -46,9 +46,11 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | diego-s10 | [dsena3472@gmail.com](mailto:dsena3472@gmail.com)|
 | FedericoZapata | [federico11zapata@gmail.com](mailto:federico11zapata@gmail.com) | Logica Backend |
 | barbara1000 | [barbaranunez325@gmail.com](mailto:barbaranunez325@gmail.com)| Formulario|
+| julieta-mores-t | [julieta.mores.t@gmail.com](mailto:julieta.mores.t@gmail.com) | Navbar |
 | LeiFraz | [Flajarkin99@hotmail.com](Flajarkin99@hotmail.com) | Logica Backend |
 | Diana2754 | [dianacc.alali@gmail.com](mailto:dianacc.alali@gmail.com) | 
 | AgustinNazaretto | [agustin_nazaretto@hotmail.com](mailto:agustin_nazaretto@hotmail.com)| Footer|
 | klicera | [karenlicera@gmail.com](mailto:karenlicera@gmail.com) | Formulario de Contacto |
 | SusanoJuicio | [ivanacu2001@gmail.com](mailto:ivanacu2001@gmail.com) | Existencia |
 | Ax-966 | [argaxelagustin@gmail.com](mailto:argaxelagustin@gmail.com) | Navegacion |
+| salinassm | [salinas.milagros.ayelen@gmail.com](mailto:salinas.milagros.ayelen@gmail.com) | Header |
