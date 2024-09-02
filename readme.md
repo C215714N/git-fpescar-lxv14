@@ -45,3 +45,4 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | barbara1000 | [barbaranunez325@gmail.com](mailto:barbaranunez325@gmail.com)| Formulario|
 | LeiFraz | [Flajarkin99@hotmail.com](Flajarkin99@hotmail.com) | Logica Backend |
 | Diana2754 | [dianacc.alali@gmail.com] (mailto:dianacc.alali@gmail.com) | 
+| AgustinNazaretto | [agustin_nazaretto@hotmail.com](mailto:agustin_nazaretto@hotmail.com)| Footer|
