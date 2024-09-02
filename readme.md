@@ -35,10 +35,6 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 |-|-|-|
 | maxiluma18 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
 | FedericoZapata | [federico11zapata@gmail.com](mailto:federico11zapata@gmail.com) | Logica Backend |
-<<<<<<< HEAD
-
-=======
->>>>>>> c629400ade5449ce810e3f6d6ce835c54368385d
 | C215714n | [cristiandracedo@hotmail.com](mailto:cristiandracedo@hotmail.com) | Navegacion |
 | dantel8 | [dantelugo1505@gmail.com](mailto:dantelugo1505@gmail.com) | Logica |
 | diego-s10 | [dsena3472@gmail.com](mailto:dsena3472@gmail.com)|
