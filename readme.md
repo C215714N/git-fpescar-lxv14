@@ -59,7 +59,6 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | tomasroetti |[roettitomas@gmail.com](mailto:roettitomas@gmail.com) | Creacion de las cards |
 | 2Oraclos4 | [omar.spinetta12@gmail.com](mailto:omar.spinetta12@gmail.com) |
 | dantel8 | [dantelugo1505@gmail.com](mailto:dantelugo1505@gmail.com) | Logica |
-| maxiluma18 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
 | gabrieIsosa | [gabrielsosaeest1@gmail.com](mailto:gabrielsosaeest1@gmail.com) | Logica JavaScript |
 | LautiCabrera | [lau.cabrera114@gmail.com](mailto:lau.cabrera114@gmail.com) | Contact |
 | diego-s10 | [dsena3472@gmail.com](mailto:dsena3472@gmail.com)|
