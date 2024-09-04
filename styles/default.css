@@ -116,6 +116,10 @@ footer {
     padding: .5rem;
     text-shadow: 0 0 .25rem #333;
 }
+.colaborators th:hover{
+    color: #fff;
+    cursor: pointer;
+}
 .colaborators{
     caption-side: top;
     border-collapse: collapse;
