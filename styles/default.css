@@ -1,89 +1,235 @@
 /* Importaciones */
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu&family=Raleway");
 @import url("https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css");
+
 /* Content First - Mobile */
-    /* Reglas Generales */
-    * {
-        box-sizing: border-box;
-        scroll-behavior: smooth;
-        font-family: 'Raleway', sans-serif;
-    }
-    [class*="icon-"]{
-        border-radius: .25rem;
-        background-color: transparent;
-    }
-    [class*="icon-"]:hover{
-        color: #eee;
-        background-color: #448;
-    }
-    /* Cabecera */
+/* Reglas Generales */
+* {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+    font-family: 'Raleway', sans-serif;
+}
 
-    /* Navegacion */
-    nav{
-        display: flex;
-        justify-content: space-between;
-        align-items: center;
-        flex-wrap: wrap;
-        padding: .5rem max(.5rem, calc(50vw - 660px));
-        background: linear-gradient(#c36, #448)
-    }
-    nav a{
-        position: relative;
-        color: #eee;
-        text-decoration: none;
-    }
-    .icon-menu{
-        color: #eee;
-        border: 1px solid #eee;
-    }
-    .icon-menu:hover{
-        color: #448;
-        background-color: #eee;
-    }
-    .icon-menu::before{
-        content: '\2261';
-        font-size: 1.5rem;
-        line-height: 1;
-    }
-    .menu{
-        list-style: none;
-        margin: 0;
-        padding: 0;
-        width: 100%;
-    }
-    .menu li{
-        position: relative;
-    }
-    .menu li::before{
-        content: '';
-        position: absolute;
-        bottom: 0;
-        left: 0;
-        width: .1rem;
-        height: .1rem;
-        background: linear-gradient(to right, transparent, #eee);
-        opacity: 0;
-        transition: all .5s ease;
-    }
-    .menu li:hover::before{
-        width: 100%;
-        opacity: .8;
-    }
-    /* Contenido Principal */
+[class*="icon-"] {
+    border-radius: .25rem;
+    background-color: transparent;
+}
 
-    /* Pie de Pagina */
+[class*="icon-"]:hover {
+    color: #eee;
+    background-color: #448;
+}
+
+/* Cabecera */
+
+/* Navegacion */
+nav {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    flex-wrap: wrap;
+    padding: .5rem max(.5rem, calc(50vw - 660px));
+    background: linear-gradient(#c36, #448)
+}
+
+nav a {
+    position: relative;
+    color: #eee;
+    text-decoration: none;
+}
+
+.icon-menu {
+    color: #eee;
+    border: 1px solid #eee;
+}
+
+.icon-menu:hover {
+    color: #448;
+    background-color: #eee;
+}
+
+.icon-menu::before {
+    content: '\2261';
+    font-size: 1.5rem;
+    line-height: 1;
+}
+
+.menu {
+    list-style: none;
+    margin: 0;
+    padding: 0;
+    width: 100%;
+}
+
+.menu li {
+    position: relative;
+}
+
+.menu li::before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: .1rem;
+    height: .1rem;
+    background: linear-gradient(to right, transparent, #eee);
+    opacity: 0;
+    transition: all .5s ease;
+}
+
+.menu li:hover::before {
+    width: 100%;
+    opacity: .8;
+}
+
+/* Contenido Principal */
+main {
+    height: 80vh;
+    /* !! Para visualizar el footer correctamente, luego borrar cuando se trabaje */
+}
+
+/*! Pie de Pagina */
+footer {
+    background: linear-gradient(#448, #c36)
+}
+
+.msgFooter {
+    text-align: center;
+    color: white;
+    font-style: italic;
+    font-size: 2rem;
+}
+
+.containerMain {
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.articleFooter {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.articleFooter p {
+    text-align: center;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.containerTable {
+    margin-top: 20px;
+}
+
+.colaborators {
+    text-align: center;
+    color: white;
+}
+
+.containerTable h4 {
+    text-align: center;
+    color: white;
+    font-size: 1.2rem;
+}
+
+.colaborators thead {
+    color: #bb386a;
+}
+
+.colaborators,
+.colaborators tbody,
+.colaborators tr,
+.colaborators th {
+    border: 1px solid #ccc;
+    border-radius: 10px;
+}
+
+.social {
+    margin-top: 20px;
+}
+
+.social ul {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    list-style: none;
+}
+
+.social a {
+    color: white;
+    text-decoration: none;
+}
+
+footer p {
+    text-align: center;
+    color: white;
+    margin: 0;
+}
 
 /* Medium Devices - Tablets */
-@media screen and (width >= 768px){
-    nav .icon-menu{
+/* !Mayor a 768px */
+@media screen and (width >=768px) {
+    nav .icon-menu {
         display: none;
     }
-    .menu{
+
+    .menu {
         display: flex;
         gap: .5rem;
         width: auto;
     }
+
 }
+
+/* !Menor a 768px */
+@media screen and (width <=768px) {
+    .msgFooter {
+        font-size: 1.5rem;
+    }
+
+
+    .articleFooter iframe {
+        width: 350px;
+        height: 300px;
+    }
+
+    .colaborators tr {
+        font-size: .75rem;
+    }
+
+}
+
+/*! Menor a 460px */
+@media screen and (width <=460px) {
+    .msgFooter {
+        font-size: 1.2rem;
+    }
+
+
+    .articleFooter iframe {
+        width: 350px;
+        height: 300px;
+    }
+
+    .colaborators tr {
+        font-size: .65rem;
+    }
+
+    .social a {
+        font-size: .6rem;
+    }
+
+    footer p {
+        font-size: .6rem;
+    }
+}
+
+
+
 /* Large Devices - Netbooks */
 
 /* Extra Large Devices - Desktop */
