@@ -5,23 +5,7 @@
 
 /* Content First - Mobile */
 /* Reglas Generales */
-* {
-    box-sizing: border-box;
-    scroll-behavior: smooth;
-    font-family: 'Raleway', sans-serif;
-}
-body{
-    margin: 0;
-}
-[class*="icon-"] {
-    border-radius: .25rem;
-    background-color: transparent;
-}
-
-[class*="icon-"]:hover {
-    color: #eee;
-    background-color: #448;
-}
+@import url('reglasGenerales.css');
 
 /* Cabecera */
 
@@ -128,21 +112,22 @@ footer {
 }
 
 .colaborators :is(caption, th,td){
+    color: #eee;
     padding: .5rem;
+    text-shadow: 0 0 .25rem #333;
 }
 .colaborators th:hover{
     color: #fff;
     cursor: pointer;
 }
 .colaborators{
+    caption-side: top;
     border-collapse: collapse;
-    color: #eee;
     background: linear-gradient(
         #c36,
         #448
     );
     box-shadow: -.25rem .25rem .5rem #3338;
-    text-shadow: 0 0 .25rem #333;
 }
 .colaborators caption{
     background-color: #c36;
