@@ -93,3 +93,4 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | TaliaIvonneOjeda1 | [ivonneivonne17@gmail.com](mailto:ivonnetalia17@gmail.com) | cards |
 | JulyMoralez | [julimoralezcaviglia@gmail.com](mailto:julimoralezcaviglia@gmail.com) | Formulario |
 | antonellapultrone | [antonellapultrone@gmail.com](mailto:antonellapultrone@gmail.com) | Footer |
+| yaelPilarL | [yaelpilarluque@gmail.com](mailto:yaelpilarluque@gmail.com) | Logica |
