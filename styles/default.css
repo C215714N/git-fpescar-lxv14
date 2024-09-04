@@ -128,17 +128,18 @@ footer {
 }
 
 .colaborators :is(caption, th,td){
+    color: #eee;
     padding: .5rem;
+    text-shadow: 0 0 .25rem #333;
 }
 .colaborators{
+    caption-side: top;
     border-collapse: collapse;
-    color: #eee;
     background: linear-gradient(
         #c36,
         #448
     );
     box-shadow: -.25rem .25rem .5rem #3338;
-    text-shadow: 0 0 .25rem #333;
 }
 .colaborators caption{
     background-color: #c36;
