@@ -62,7 +62,7 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | dantel8 | [dantelugo1505@gmail.com](mailto:dantelugo1505@gmail.com) | Logica |
 | gabrieIsosa | [gabrielsosaeest1@gmail.com](mailto:gabrielsosaeest1@gmail.com) | Logica JavaScript |
 | LautiCabrera | [lau.cabrera114@gmail.com](mailto:lau.cabrera114@gmail.com) | Contact |
-| diego-s10 | [dsena3472@gmail.com](mailto:dsena3472@gmail.com)|
+| diego-s10 | [dsena3472@gmail.com](mailto:dsena3472@gmail.com)| Logica FrontEnd |
 | FedericoZapata | [federico11zapata@gmail.com](mailto:federico11zapata@gmail.com) | Logica Backend |
 | barbara1000 | [barbaranunez325@gmail.com](mailto:barbaranunez325@gmail.com)| Formulario|
 | julieta-mores-t | [julieta.mores.t@gmail.com](mailto:julieta.mores.t@gmail.com) | Navbar |
