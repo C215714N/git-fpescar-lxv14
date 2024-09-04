@@ -229,14 +229,11 @@
         <!-- Formulario de Contacto -->
         <form id="contact" action="">
             <h2>Dejanos tu consulta</h2>
-            <!-- Nombre completo -->
             <label for="contact_name">Ingrese su Nombre</label>
             <input 
                 id="contact_name"
                 name="name"
                 type="text"
-                maxlength="50"
-                placeholder="Cristian Racedo"
                 required>
             <!-- Correo Electronico -->
             <label for="contact_email">Ingrese su Correo</label>
@@ -244,26 +241,13 @@
                 id="contact_email"
                 name="email"
                 type="email"
-                minlength="8"
-                placeholder="cristiandracedo@hotmail.com"
                 required>
-            <!-- Seleccion de Asunto -->
-            <label for="contact_subject">Seleccione el Asunto</label>
-            <select id="contact_subject" name="subject">
-                <option value="html">Estructura con HTML</option>
-                <option value="css">Estilos con CSS</option>
-                <option value="js">Logica con JS</option>
-            </select>
-            <!-- Campo de Consulta -->
             <label for="contact_consult">Escriba su Consulta</label>
             <textarea 
                 id="contact_consult" 
                 name="consult"
-                minlength="30"
-                maxlength="1500"
-                placeholder="Buenas, quisiera realizar una consulta sobre el siguiente contenido..."
+                placeholder="Buenas, quisiera realizar una consulta sobre ..."
                 required></textarea>
-            <!-- Boton enviar -->
             <input type="submit">
         </form>
 
