@@ -170,6 +170,55 @@ footer p {
     margin: 0;
 }
 
+#contact {
+    max-width: 450px;
+    margin: 40px auto;
+    padding: 20px;
+    background: linear-gradient(#c36, #448);
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    color: white;
+}
+
+#contact h2 {
+    text-align: center;
+    margin-bottom: 20px;
+}
+
+#contact label {
+    display: block;
+    margin-bottom: 10px;
+}
+
+#contact input,
+#contact textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 20px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+#contact input[type="submit"] {
+    background-color: #bb386a;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#contact input[type="submit"]:hover {
+    background-color: #3e8e41;
+}
+
+#contact textarea {
+    height: 100px;
+    resize: vertical;
+}
+
+
 /* Medium Devices - Tablets */
 /* !Mayor a 768px */
 @media screen and (width >=768px) {
