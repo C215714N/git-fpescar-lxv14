@@ -42,9 +42,26 @@ corresponden a las direcciónes de los repositorios que se encuentran en algún 
 Existen diferentes referencias de posicion en el historial de cambios y se utilizan para identificar y navegar entre diferentes commits, ramas y otros objetos en el repositorio. Entre los apuntadores mas comunes se encuentran
 
 * __HEAD__: Apuntador movil, que indica al usuario donde se encuentra dentro del repositorio.
+    * __git checkout `HEAD~3`__: mueve el puntero hasta 3 commits por detras de la posicion actual
+    * __git diff HEAD^__: muestra las diferencias entre el ultimo commit y el ancestro de este
 * __BRANCH__: Apuntador dinamico, que siempre apunta al ultimo commit de la linea de tiempo actual.
+    * __git branch__: muestra las ramas identificadas en el repositorio actual.
+    * __git branch `branchname`__: crea una rama con el nombre especificado en la referencia actual
+    * __git branch -d `branch`__: elimina la rama de forma segura, siempre y cuando este integrada.
+    * __git branch -D `branch`__: elimina la rama de manera forzada, aunque no haya sido integrada.
+    * __git merge `branch`__: genera un commit que combina los cambios de la rama seleccionada y la actual
+    * __git rebase `branch`__: reaplica los commits de la rama seleccionada en la rama actual.
 * __TAG__: Apuntador estatico, que se corresponde con algun commit en particular y es utilizado para el versionado.
+    * __git tag `tag`__: agrega una etiqueta al commit actual
+    * __git tag -d `tag`__: elimina una etiqueta del historial de confirmaciones
+    * __git tag -l__: muestra las etiquetas existentes
+    * __git push --tags__: sube al repositorio remoto las etiquetas creadas localmente
 * __STASH__: Apuntador de la zona temporal, ideal cuando necesitamos cambiar de rama y tenemos cambios pendientes.
+    * __git stash__: agregar los cambios pendientes a la zona temporal de cambios.
+    * __git stash list__: muestra una lista de los cambios almacenados en la pila stash.
+    * __git stash apply__: aplica los cambios de la zona temporal al working directory
+    * __git stash drop__: elimina de la zona temporal el ultimo commit de referencia
+    * __git stash pop__: aplica los cambios al working directory y los quita de la zona temporal
 
 ## Colaboradores
 
@@ -62,12 +79,11 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | dantel8 | [dantelugo1505@gmail.com](mailto:dantelugo1505@gmail.com) | Logica |
 | gabrieIsosa | [gabrielsosaeest1@gmail.com](mailto:gabrielsosaeest1@gmail.com) | Logica JavaScript |
 | LautiCabrera | [lau.cabrera114@gmail.com](mailto:lau.cabrera114@gmail.com) | Contact |
-| diego-s10 | [dsena3472@gmail.com](mailto:dsena3472@gmail.com)|
+| diego-s10 | [dsena3472@gmail.com](mailto:dsena3472@gmail.com)| Logica FrontEnd |
 | FedericoZapata | [federico11zapata@gmail.com](mailto:federico11zapata@gmail.com) | Logica Backend |
 | barbara1000 | [barbaranunez325@gmail.com](mailto:barbaranunez325@gmail.com)| Formulario|
 | julieta-mores-t | [julieta.mores.t@gmail.com](mailto:julieta.mores.t@gmail.com) | Navbar |
-| LeiFraz | [Flajarkin99@hotmail.com](Flajarkin99@hotmail.com) | Logica Backend |
-| Diana2754 | [dianacc.alali@gmail.com](mailto:dianacc.alali@gmail.com) | 
+| LeiFraz | [Flajarkin99@hotmail.com](mailto:Flajarkin99@hotmail.com) | Logica Backend |
 | AgustinNazaretto | [agustin_nazaretto@hotmail.com](mailto:agustin_nazaretto@hotmail.com)| Footer|
 | klicera | [karenlicera@gmail.com](mailto:karenlicera@gmail.com) | Formulario de Contacto |
 | SusanoJuicio | [ivanacu2001@gmail.com](mailto:ivanacu2001@gmail.com) | Existencia |
@@ -75,3 +91,4 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | salinassm | [salinas.milagros.ayelen@gmail.com](mailto:salinas.milagros.ayelen@gmail.com) | Header |
 | JulyMoralez | [julimoralezcaviglia@gmail.com](mailto:julimoralezcaviglia@gmail.com) | Formulario |
 | TaliaIvonneOjeda1 | [ivonneivonne17@gmail.com](mailto:ivonnetalia17@gmail.com) | cards |
+| JulyMoralez | [julimoralezcaviglia@gmail.com](mailto:julimoralezcaviglia@gmail.com) | Formulario |

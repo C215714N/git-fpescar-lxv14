@@ -1,0 +1,15 @@
+# Carpetas
+node_modules/
+temp/
+tmp/
+logs/
+.vscode/
+
+# Archivos
+*-lock.json
+*.temp
+*.tmp
+*.log
+*.txt
+*.doc
+*.env
