@@ -5,21 +5,7 @@
 
 /* Content First - Mobile */
 /* Reglas Generales */
-* {
-    box-sizing: border-box;
-    scroll-behavior: smooth;
-    font-family: 'Raleway', sans-serif;
-}
-
-[class*="icon-"] {
-    border-radius: .25rem;
-    background-color: transparent;
-}
-
-[class*="icon-"]:hover {
-    color: #eee;
-    background-color: #448;
-}
+@import url('reglasGenerales.css');
 
 /* Cabecera */
 
@@ -125,29 +111,33 @@ footer {
     margin-top: 20px;
 }
 
-.colaborators {
-    text-align: center;
-    color: white;
+.colaborators :is(caption, th,td){
+    padding: .5rem;
+}
+.colaborators{
+    border-collapse: collapse;
+    color: #eee;
+    background: linear-gradient(
+        #c36,
+        #448
+    );
+    box-shadow: -.25rem .25rem .5rem #3338;
+    text-shadow: 0 0 .25rem #333;
+}
+.colaborators caption{
+    background-color: #c36;
+}
+.colaborators tbody tr:nth-child(odd){
+    background-color: #6663;
+}
+.colaborators tbody tr:nth-child(even){
+    background-color: #eee3;
 }
 
-.containerTable h4 {
-    text-align: center;
-    color: white;
-    font-size: 1.2rem;
+.colaborators caption{
+    border-bottom: none;
+    border-radius: .25rem .25rem 0 0 ;
 }
-
-.colaborators thead {
-    color: #bb386a;
-}
-
-.colaborators,
-.colaborators tbody,
-.colaborators tr,
-.colaborators th {
-    border: 1px solid #ccc;
-    border-radius: 10px;
-}
-
 .social {
     margin-top: 20px;
 }
