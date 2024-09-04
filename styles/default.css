@@ -1,5 +1,7 @@
 /* Importaciones */
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu&family=Raleway");
+@import url("https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css");
+@import url("navigation.css");
 
 /* Content First - Mobile */
 /* Reglas Generales */
