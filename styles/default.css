@@ -1,6 +1,5 @@
 /* Importaciones */
 @import url("https://fonts.googleapis.com/css2?family=Ubuntu&family=Raleway");
-@import url("https://cdn.jsdelivr.net/npm/bootstrap/dist/css/bootstrap.min.css");
 
 /* Content First - Mobile */
 /* Reglas Generales */
@@ -9,7 +8,9 @@
     scroll-behavior: smooth;
     font-family: 'Raleway', sans-serif;
 }
-
+body{
+    margin: 0;
+}
 [class*="icon-"] {
     border-radius: .25rem;
     background-color: transparent;
@@ -124,29 +125,19 @@ footer {
     margin-top: 20px;
 }
 
-.colaborators {
-    text-align: center;
-    color: white;
+.colaborators :is(caption, th,td){
+    padding: .5rem;
 }
-
-.containerTable h4 {
-    text-align: center;
-    color: white;
-    font-size: 1.2rem;
-}
-
-.colaborators thead {
-    color: #bb386a;
-}
-
 .colaborators,
-.colaborators tbody,
-.colaborators tr,
-.colaborators th {
-    border: 1px solid #ccc;
-    border-radius: 10px;
+.colaborators :is(caption, tr, td){
+    color: #eee;
+    background-color: #c368;
 }
 
+.colaborators caption{
+    border-bottom: none;
+    border-radius: .25rem .25rem 0 0 ;
+}
 .social {
     margin-top: 20px;
 }
