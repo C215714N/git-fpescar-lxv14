@@ -3,7 +3,6 @@
     max-height: 0;
     overflow: hidden;
     transition: all .2s linear;
-   
 }
 .menu.active{
     max-height: 100vh;
