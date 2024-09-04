@@ -54,6 +54,7 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 |-|-|-|
 | maxiluma18 | [maxilucasmartinez18@gmail.com](mailto:maxilucasmartinez18@gmail.com) | Harry Footer |
 | Diana2754 | [dianacc.alali@gmail.com](mailto:dianacc.alali@gmail.com) | 
+| ezevallelugo | [eze0072@gmail.com](mailto:eze0072@gmail.com) | Logica Backend |
 | FedericoZapata | [federico11zapata@gmail.com](mailto:federico11zapata@gmail.com) | Logica Backend |
 | C215714n | [cristiandracedo@hotmail.com](mailto:cristiandracedo@hotmail.com) | Navegacion |
 | tomasroetti |[roettitomas@gmail.com](mailto:roettitomas@gmail.com) | Creacion de las cards |
