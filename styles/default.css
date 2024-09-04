@@ -6,7 +6,9 @@
 /* Content First - Mobile */
 /* Reglas Generales */
 @import url('reglasGenerales.css');
-
+*{
+    scrollbar-color: #c36  #448;
+}
 /* Cabecera */
 
 /* Navegacion */
