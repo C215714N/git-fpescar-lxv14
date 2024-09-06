@@ -20,11 +20,43 @@ Esto es una guia para los alumnos de la capacitacion de **sistemas de control de
 
 ## Configuracion Inicial
 
-Antes de comenzar a trabajar en un proyecto es importante que configuremos nuestro nombre de usuario y correo con el que seremos identificados en los diferentes proyectos. Para ello utilizaremos los siguientes comandos
+Antes de comenzar a trabajar en un proyecto es importante que configuremos nuestro nombre de usuario y correo con el que seremos identificados en los diferentes proyectos, cabe aclarar que los mismos son independientes a los datos de nuestra cuenta de GitHub, y para ello utilizaremos los siguientes comandos.
 
 ```sh
-    git config --global user.name "username"
-    git config --global user.email "user@server"
+git config --global user.name "username"
+git config --global user.email "user@server"
+```
+### Crear un repositorio
+
+A continuacion debemos inicializar un repositorio en la carpeta donde vayamos a trabajar y agregar un commit al historial de confirmaciones, primero deberemos haber creado algun archivo en la carpeta donde hayamos inicializado el repositorio. No importa si el archivo fue creado en ese momento o existia desde antes, debido a que git registra como creacion la adhicion de dicho elemento, por primera vez, al repositorio.
+
+```sh
+git init                    # inicializamos el repositorio
+touch .gitignore            # creamos un archivo de exclusiones (UNIX)
+echo "*.log" > .gitignore   # agregamos contenido al archivo
+git add .gitignore          # realizamos la captura de codigo
+git commit                  # confirmamos los cambios realizados
+```
+
+### Clonar un Repositorio
+
+En caso que ya contemos con un repositorio remoto podemos descargar el proyecto desde la linea de comandos y trabajar con un clon, que iremos sincronizando a medida que realicemos cambios en el repositorio local. Es importante tener acceso al mismo, incluso si este es un proyecto publico.
+
+```sh
+    git clone https://github.com/c215714n/git-fpescar-lxv14 # clona el repositorio en una carpeta homonima
+    cd git-fpescar-lxv14 # abrimos la carpeta para trabajar conel repositorio local
+```
+
+### Sincronizacion de Cambios
+
+Cuando realizamos un conjunto de cambios en el repositorio local, y se considera que estan listos para ser integrados a la historia remota. Podemos utilizar los siguientes comandos, teniendo en cuenta que debemos descargar cualquier diferencia existente e integrarla a la misma rama que deseamos actualizar remotamente, antes de poder subir algun cambio.
+
+```sh
+    git fetch origin main # descarga el historial de cambios remoto
+    git diff origin/main  # compara la rama local con la rama remota
+    git pull origin main  # integra los cambios remotos (FETCH+MERGE)
+    ...                   # resolver cualquier conflicto existente
+    git push origin main  # envia los cambios locales a la rama remota
 ```
 
 ## Remotos
@@ -92,3 +124,7 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | JulyMoralez | [julimoralezcaviglia@gmail.com](mailto:julimoralezcaviglia@gmail.com) | Formulario |
 | TaliaIvonneOjeda1 | [ivonneivonne17@gmail.com](mailto:ivonnetalia17@gmail.com) | cards |
 | JulyMoralez | [julimoralezcaviglia@gmail.com](mailto:julimoralezcaviglia@gmail.com) | Formulario |
+| antonellapultrone | [antonellamagalipultrone@gmail.com](mailto:antonellamagalipultrone@gmail.com) | Footer |
+| alfre4500 | [alfreagor@gmail.com](mailto:alfreagor@gmail.com) | Footer |
+| yaelPilarL | [yaelpilarluque@gmail.com](mailto:yaelpilarluque@gmail.com) | Footer |
+| saibot04 | [tobias4385@gmail.com](mailto:tobias4385@gmail.com) | Main |
