@@ -104,6 +104,15 @@ Una de las caracteristicas principales que ofrece git, es el acceso al historial
 * __git reflog__: muestra el historial de acciones identificado por cabeceras, desde la ultima hasta la primera.
 * __git gc__: herramienta de mantenimiento para la limpieza de commit eliminados o con referencias perdidas.
 
+## Control de Cambios
+
+Existen diferentes formas de gestionar los cambios realizados en el repositorio, principalmente vamos a poder visualizar las modificaciones, pero en caso de ser necesario podremos reestablecer el proyecto completo o partes del mismo, con alguno de los siguiente comandos.
+
+* __git reset `ref`__: elimina los commits desde el ultimo hasta la referencia, pero mantiene el working directory.
+* __git reset --hard `ref`__: elimina y reestablece el proyecto hasta el commit al que se hace referencia.
+* __git revert `ref`__: genera un nuevo commit con las operaciones contrarias a las realizadas en el commit de referencia.
+* __git checkout `ref` -- `file`__: reestablece un archivo a como se encontraba en el commit referenciado
+
 ## Colaboradores
 
 Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de las distintas areas y participaron en la inclusion de las siguientes caracteristicas.
