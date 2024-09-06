@@ -95,6 +95,15 @@ Existen diferentes referencias de posicion en el historial de cambios y se utili
     * __git stash drop__: elimina de la zona temporal el ultimo commit de referencia
     * __git stash pop__: aplica los cambios al working directory y los quita de la zona temporal
 
+## Control de Cambios
+
+Existen diferentes formas de gestionar los cambios realizados en el repositorio, principalmente vamos a poder visualizar las modificaciones, pero en caso de ser necesario podremos reestablecer el proyecto completo o partes del mismo, con alguno de los siguiente comandos.
+
+* __git reset `ref`__: elimina los commits desde el ultimo hasta la referencia, pero mantiene el working directory.
+* __git reset --hard `ref`__: elimina y reestablece el proyecto hasta el commit al que se hace referencia.
+* __git revert `ref`__: genera un nuevo commit con las operaciones contrarias a las realizadas en el commit de referencia.
+* __git checkout `ref` -- `file`__: reestablece un archivo a como se encontraba en el commit referenciado
+
 ## Colaboradores
 
 Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de las distintas areas y participaron en la inclusion de las siguientes caracteristicas.
