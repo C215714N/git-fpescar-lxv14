@@ -95,6 +95,15 @@ Existen diferentes referencias de posicion en el historial de cambios y se utili
     * __git stash drop__: elimina de la zona temporal el ultimo commit de referencia
     * __git stash pop__: aplica los cambios al working directory y los quita de la zona temporal
 
+## Registro
+
+Una de las caracteristicas principales que ofrece git, es el acceso al historial de cambios, pero tambien existen el registro resumido, asi como tambien el registro de operaciones. Cabe destacar que esto hace que nuestro repositorio aumente su tamaño, por lo tanto, tambien contamos con una herramienta de limpieza.
+
+* __git log__: muestra el historial de confirmaciones con el autor, la fecha y el mensaje de commit.
+* __git shortlog__: muestra el historial resumido ordenado por autor y por commit.
+* __git reflog__: muestra el historial de acciones identificado por cabeceras, desde la ultima hasta la primera.
+* __git gc__: herramienta de mantenimiento para la limpieza de commit eliminados o con referencias perdidas.
+
 ## Control de Cambios
 
 Existen diferentes formas de gestionar los cambios realizados en el repositorio, principalmente vamos a poder visualizar las modificaciones, pero en caso de ser necesario podremos reestablecer el proyecto completo o partes del mismo, con alguno de los siguiente comandos.
