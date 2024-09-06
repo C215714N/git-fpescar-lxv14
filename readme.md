@@ -133,6 +133,7 @@ Este proyecto fue desarrollado por los siguiente usuarios, que se encargaron de 
 | JulyMoralez | [julimoralezcaviglia@gmail.com](mailto:julimoralezcaviglia@gmail.com) | Formulario |
 | TaliaIvonneOjeda1 | [ivonneivonne17@gmail.com](mailto:ivonnetalia17@gmail.com) | cards |
 | JulyMoralez | [julimoralezcaviglia@gmail.com](mailto:julimoralezcaviglia@gmail.com) | Formulario |
-| antonellapultrone | [antonellapultrone@gmail.com](mailto:antonellapultrone@gmail.com) | Footer |
+| antonellapultrone | [antonellamagalipultrone@gmail.com](mailto:antonellamagalipultrone@gmail.com) | Footer |
 | alfre4500 | [alfreagor@gmail.com](mailto:alfreagor@gmail.com) | Footer |
-| yaelPilarL | [yaelpilarluque@gmail.com](mailto:yaelpilarluque@gmail.com) | Header |
+| yaelPilarL | [yaelpilarluque@gmail.com](mailto:yaelpilarluque@gmail.com) | Footer |
+| saibot04 | [tobias4385@gmail.com](mailto:tobias4385@gmail.com) | Main |
